@@ -28,6 +28,6 @@ React and vanilla js projects.
 
 ### 📫 How to reach me:
 
-[Linkedin](https://www.linkedin.com/in/guilherme-babugia/)
-[Twitter](https://twitter.com/guibbg10)
-[Email me](mailto:guibbg12345@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/guilherme-babugia/)
+- [Twitter](https://twitter.com/guibbg10)
+- [Email me](mailto:guibbg12345@gmail.com)
