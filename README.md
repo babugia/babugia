@@ -1,16 +1,16 @@
 ## Welcome!!! 😄
 
-Hello, my name is Guilherme Babugia, i'm 25 years old, beer🍺 and japanse food🍣 fan, CS:GO Spectator🔫💣 and i'm a frontend developer (seeking to become a fullstack on javascript stack).
+Hello, my name is Guilherme Babugia, i'm 26 years old, beer🍺 and japanse food🍣 fan, CS:GO Spectator🔫💣 and i'm a frontend developer (seeking to become a fullstack on javascript stack).
 
 ### 🔭 I’m currently working on
 
-React and vanilla js projects.
+React (Next.js) and vanilla js projects.
 
 ### 🌱 I’m currently learning
 
 - React (Hooks, Redux)
 - Typescript
-- React-Native
+- Prisma
 - Fetching (axios, swr, react-query)
 - Design patterns (SOLID, Dry, Factory, Decorator...)
 - Tests (Jest, Enzyme, React Testing library)
